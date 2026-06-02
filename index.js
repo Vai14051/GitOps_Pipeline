@@ -5,7 +5,7 @@ const PORT = 3000;
 
 app.get("/",(req,res)=>{
     return res.send({
-        msg:"hello from the server sss"
+        msg:"Hello this is my first deployment give me a apprecitation thanks"
     })
 });
 
